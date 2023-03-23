@@ -1,6 +1,6 @@
-baseURL: "https://rpa.dk"
+baseURL: "https://rpadk.netlify.app/"
 languageCode: "da-dk"
-title: "RPA"
+title: "KQL.dk"
 
 enableEmoji: true
 enableGitInfo: true
