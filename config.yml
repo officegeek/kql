@@ -1,4 +1,4 @@
-baseURL: "https://rpadk.netlify.app/"
+baseURL: "https://kql.dk"
 languageCode: "da-dk"
 title: "KQL.dk"
 
@@ -41,9 +41,9 @@ params:
   author: "OfficeGeek"
   github: "#"
   ogimage: "/images/og.png"
-  sitename: "OfficeGeek"
+  sitename: "KQL"
   twitter: "#"
-  email: tue@rpa.dk
+  email: tue@kql.dk
   phone: +45 2065 7117
   address: Sprydet 19, 3070 Snekkersten
 
