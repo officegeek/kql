@@ -22,12 +22,11 @@ blocks:
       - Bestem selv tempo
       - Bedre indlæring
 
-  - title: Kan jeg lære i mit eget tempo?
+  - title: Kan jeg lære KQL i mit eget tempo?
     content: |-
       Ja, du gennemfører et online kursus i det tempo der passer dig. Du kan også gå frem og tilbage i kurset.
 
   - title: Er der specielle krav til min computer?
     content: |-
-      Nej, for at tage kurset skal der ikke være installeret noget specielt på din computer.
-      I forbindelse med online kurset kan der godt være et "krav" om at et program er installeret, f.eks. Excel eller Python 
+      Nej, for at tage kurserne skal der ikke være installeret noget specielt på din computer.
 ---
