@@ -7,9 +7,9 @@ image:
 
 blocks:
 - block: hero
-  superheading: Velkommen til RPA.dk
-  heading: Automatiser dit arbejde
-  subheading: Jeg hjælper dig med at opnå mere effektivitet i dit arbejde ved hjælp af RPA
+  superheading: Velkommen til KQL.dk
+  heading: Kusto Query Language
+  subheading: KQL er et forespørgselssprog, der anvendes i Azure Data Explorer til at søge og analysere store datamængder på en hurtig og effektiv måde.
   image: /images/hero.jpg
   video: 
     text: Se video

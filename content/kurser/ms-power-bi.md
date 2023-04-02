@@ -1,5 +1,5 @@
 ---
-title: Microsoft Power BI på én time
+title: Introduktion til KQL
 summary: Er det muligt at lære Microsoft Power BI på kun én time? Nok ikke, men jeg kan give dig en introduktion. 
 image: https://github.com/officegeek/www/raw/main/assets/image/bi-logo.png
 weight: 10
