@@ -19,7 +19,7 @@ blocks:
     url: https://www.officegeek.dk/kurser
 
 - block: cards
-  heading: Hvorfor *RPA.dk?*
+  heading: Hvorfor *KQL.dk?*
   subheading: Jeg har undervist i IT siden 1995.
   cards:
   - heading: God økonomi
