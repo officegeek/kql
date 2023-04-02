@@ -5,7 +5,7 @@ image: https://github.com/officegeek/www/raw/main/assets/image/bi-logo.png
 weight: 10
 featured: true
 kategorier:
-- powerbi
+- kql
 price: 199 kr.
 signup_link: "#/ms/signup/62ab4f4008d1240004de3d6d"
 content_id: microsoft-power-bi
