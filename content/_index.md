@@ -9,7 +9,7 @@ blocks:
 - block: hero
   superheading: Velkommen til KQL.dk
   heading: Kusto Query Language
-  subheading: KQL er et forespørgselssprog, der anvendes i Azure Data Explorer til at søge og analysere store datamængder på en hurtig og effektiv måde.
+  subheading: KQL er et forespørgselssprog, der anvendes i Azure Data Explorer til at søge og analysere store datamængder på en hurtig og effektiv måde
   image: /images/hero.jpg
   video: 
     text: Se video
@@ -36,8 +36,8 @@ blocks:
     icon: popup
 
 - block: courses
-  heading: Udvalgte kurser
-  subheading: Find dit næste online kursus her
+  heading: Kurser
+  subheading: Find dit næste online KQL kursus her
 
 - block: video
   heading: Webinar

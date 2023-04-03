@@ -32,13 +32,13 @@ markup:
       unsafe: true
       
 params:
-  description: "Online kurser"
+  description: "KQL kurser"
   logo: "/images/rpa_logo_1.jpg"
   logo_footer: "/images/rpa_logo_2.jpg"
   footer_text: "Siden 1995 har jeg undervist virksomheder og for kursusudbydere. Gennem årene er det blevet til rigtig mange tilfredse kursister"
   contact_text: "Kontakt mig hvis du har nogle spørgsmål."
   copyright: "Copyright © Tue Hellstern"
-  author: "OfficeGeek"
+  author: "KQL"
   github: "#"
   ogimage: "/images/og.png"
   sitename: "KQL"
