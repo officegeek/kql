@@ -1,5 +1,5 @@
 ---
-title: Introduktion til KQL
+title: KQL - Introduktion
 summary: Introduktion til Kusto Query Language online kurset er designet til at hjælpe dig med at forstå og beherske KQL-sproget, som er en del af Microsofts Azure Data Explorer-platformen
 image: https://github.com/officegeek/www/raw/main/assets/image/bi-logo.png
 weight: 10
