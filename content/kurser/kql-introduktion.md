@@ -8,7 +8,7 @@ kategorier:
 - kql
 price: 199 kr.
 signup_link: "#/ms/signup/62ab4f4008d1240004de3d6d"
-content_id: introduktion-kql
+content_id: kql-introduktion
 
 includes:
 - text: Hurtig introduktion
